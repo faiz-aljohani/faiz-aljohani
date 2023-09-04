@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiz Aljohani</h1>
-<h3 align="center">A Software Engineering Student @KFUPM</h3>
+<h3 align="center">A Software Engineering Student @KFUPM, Learning full-stack web development🧑‍💻 and A.I.🤖</h3>
 
 - 🔭 I’m currently working on **Computer vision models**
 
