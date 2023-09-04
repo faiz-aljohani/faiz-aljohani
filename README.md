@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faiz Aljohani</h1>
 <h3 align="center">A Software Engineering Student @KFUPM, Learning full-stack web development🧑‍💻 and A.I.🤖</h3>
+<h4>💬 Latest Project? 👉<a href="https://github.com/faiz-aljohani/Teammate">Full stack website "Teammate"</a></h4>
 
 - 🔭 I’m currently working on **Computer vision models**
-
 - 📫 How to reach me **aljohanifaiz227@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
